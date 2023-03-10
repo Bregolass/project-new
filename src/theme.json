@@ -1,0 +1,547 @@
+{
+  "id": "96224f48-4b4f-4a56-a19d-24ed7fac3275",
+  "createdAt": 1678369876569,
+  "updatedAt": 1678369876569,
+  "deleted": false,
+  "name": "",
+  "components": [
+    {
+      "id": "checkout",
+      "dir": "",
+      "displayName": "",
+      "description": "",
+      "props": [
+        {
+          "id": "9091fe22-890f-4f75-bb78-7b6cd9fed095",
+          "name": "showTax",
+          "displayName": "",
+          "description": "",
+          "type": "BOOLEAN",
+          "isRequired": false,
+          "sliderData": {},
+          "groupId": "",
+          "translations": {}
+        },
+        {
+          "id": "dd2c3cfd-1713-409b-9b59-b4281ee0909e",
+          "name": "buttonBgColor",
+          "displayName": "",
+          "description": "",
+          "type": "COLOR",
+          "isRequired": false,
+          "sliderData": {},
+          "groupId": "",
+          "translations": {}
+        },
+        {
+          "id": "8b8bc7f8-c06a-42c5-b138-250aaf1d6b0a",
+          "name": "buttonTextColor",
+          "displayName": "",
+          "description": "",
+          "type": "COLOR",
+          "isRequired": false,
+          "sliderData": {},
+          "groupId": "",
+          "translations": {}
+        },
+        {
+          "id": "023ec96a-20ba-421d-a958-3b6d4520d7e1",
+          "name": "buttonDisabledBgColor",
+          "displayName": "",
+          "description": "",
+          "type": "COLOR",
+          "isRequired": false,
+          "sliderData": {},
+          "groupId": "",
+          "translations": {}
+        },
+        {
+          "id": "c7ca67dc-d62f-442b-a080-32cb213840f1",
+          "name": "buttonDisabledTextColor",
+          "displayName": "",
+          "description": "",
+          "type": "COLOR",
+          "isRequired": false,
+          "sliderData": {},
+          "groupId": "",
+          "translations": {}
+        },
+        {
+          "id": "30000184-2182-456d-b72a-e52e6ae42cce",
+          "name": "primaryTextColor",
+          "displayName": "",
+          "description": "",
+          "type": "COLOR",
+          "isRequired": false,
+          "sliderData": {},
+          "groupId": "",
+          "translations": {}
+        },
+        {
+          "id": "1ccdcf28-874c-4bc7-a339-16acb1b253cb",
+          "name": "secondaryTextColor",
+          "displayName": "",
+          "description": "",
+          "type": "COLOR",
+          "isRequired": false,
+          "sliderData": {},
+          "groupId": "",
+          "translations": {}
+        },
+        {
+          "id": "6ad78b6d-1d64-4e1c-ba17-fd8aee8411e8",
+          "name": "primaryBgColor",
+          "displayName": "",
+          "description": "",
+          "type": "COLOR",
+          "isRequired": false,
+          "sliderData": {},
+          "groupId": "",
+          "translations": {}
+        },
+        {
+          "id": "17ede7cc-7d93-4555-9767-832253869626",
+          "name": "secondaryBgColor",
+          "displayName": "",
+          "description": "",
+          "type": "COLOR",
+          "isRequired": false,
+          "sliderData": {},
+          "groupId": "",
+          "translations": {}
+        },
+        {
+          "id": "a54a9cd8-32f7-4b87-a595-facc5a53f23c",
+          "name": "borderColor",
+          "displayName": "",
+          "description": "",
+          "type": "COLOR",
+          "isRequired": false,
+          "sliderData": {},
+          "groupId": "",
+          "translations": {}
+        },
+        {
+          "id": "2dde9863-2005-4fc0-87e4-eec38f6fd0d1",
+          "name": "cardBgColor",
+          "displayName": "",
+          "description": "",
+          "type": "COLOR",
+          "isRequired": false,
+          "sliderData": {},
+          "groupId": "",
+          "translations": {}
+        },
+        {
+          "id": "ecc37667-4f2d-407e-85c1-bd9880b637cd",
+          "name": "errorColor",
+          "displayName": "",
+          "description": "",
+          "type": "COLOR",
+          "isRequired": false,
+          "sliderData": {},
+          "groupId": "",
+          "translations": {}
+        },
+        {
+          "id": "4e3d4d42-e230-48e2-83d8-51a168573f44",
+          "name": "errorLightColor",
+          "displayName": "",
+          "description": "",
+          "type": "COLOR",
+          "isRequired": false,
+          "sliderData": {},
+          "groupId": "",
+          "translations": {}
+        },
+        {
+          "id": "90ebd30a-905a-4fad-b243-f2fd3d915195",
+          "name": "warningColor",
+          "displayName": "",
+          "description": "",
+          "type": "COLOR",
+          "isRequired": false,
+          "sliderData": {},
+          "groupId": "",
+          "translations": {}
+        },
+        {
+          "id": "a32ec2d2-0cb6-4f7f-a013-706dbafbddc7",
+          "name": "warningLightColor",
+          "displayName": "",
+          "description": "",
+          "type": "COLOR",
+          "isRequired": false,
+          "sliderData": {},
+          "groupId": "",
+          "translations": {}
+        },
+        {
+          "id": "40dde548-5bf9-47b4-a0ca-14c118dd2248",
+          "name": "successColor",
+          "displayName": "",
+          "description": "",
+          "type": "COLOR",
+          "isRequired": false,
+          "sliderData": {},
+          "groupId": "",
+          "translations": {}
+        },
+        {
+          "id": "eec05276-6c97-49f3-ab62-d774ee937eae",
+          "name": "successLightColor",
+          "displayName": "",
+          "description": "",
+          "type": "COLOR",
+          "isRequired": false,
+          "sliderData": {},
+          "groupId": "",
+          "translations": {}
+        }
+      ],
+      "isHeader": false,
+      "isFooter": false,
+      "translations": {},
+      "defaultPropValuesTranslations": {}
+    },
+    {
+      "id": "f8fc0561-aaae-499a-bede-5f21cfb4cf7c",
+      "dir": "footer",
+      "displayName": "Footer",
+      "description": "",
+      "props": [
+        {
+          "id": "cce5de9a-62a5-45fd-8492-47607b65d0c8",
+          "name": "links",
+          "displayName": "Links",
+          "description": "",
+          "type": "LIST_OF_LINK",
+          "isRequired": true,
+          "sliderData": {},
+          "groupId": "",
+          "translations": {}
+        },
+        {
+          "id": "93fda9e4-5f9c-4ffb-ab9d-8764643c4fa9",
+          "name": "footerText",
+          "displayName": "Footer Yazı",
+          "description": "",
+          "type": "TEXT",
+          "isRequired": false,
+          "sliderData": {},
+          "groupId": "",
+          "translations": {}
+        },
+        {
+          "id": "6fe959b1-7bbb-4121-aa11-66bac9281886",
+          "name": "socialMediaLinks",
+          "displayName": "Social Media Links",
+          "description": "",
+          "type": "LIST_OF_LINK",
+          "isRequired": true,
+          "sliderData": {},
+          "groupId": "",
+          "translations": {}
+        }
+      ],
+      "isHeader": false,
+      "isFooter": true,
+      "translations": {},
+      "defaultPropValuesTranslations": {},
+      "defaultPropValues": {
+        "links": [
+          {
+            "id": "f864de15-ef93-461e-ab4e-5296a4ee5ece",
+            "linkType": "PAGE",
+            "label": "Anasayfa",
+            "pageId": "4257a355-ef05-4387-9cd1-3c4a0ac53f89",
+            "pageType": "INDEX",
+            "subLinks": [
+              {
+                "id": "bf6dc128-533c-4cb6-a0dd-3142323a3e07",
+                "linkType": "PAGE",
+                "label": "Home",
+                "pageId": "4257a355-ef05-4387-9cd1-3c4a0ac53f89",
+                "pageType": "INDEX",
+                "subLinks": []
+              },
+              {
+                "id": "3b0fe88f-8caf-4c1f-bdb8-ad0adbd97e47",
+                "linkType": "PAGE",
+                "label": "Shop",
+                "pageId": "4257a355-ef05-4387-9cd1-3c4a0ac53f89",
+                "pageType": "INDEX",
+                "subLinks": []
+              },
+              {
+                "id": "44aa91b5-0a60-4638-8d5a-073cd750adac",
+                "linkType": "PAGE",
+                "label": "Blog",
+                "pageId": "4257a355-ef05-4387-9cd1-3c4a0ac53f89",
+                "pageType": "INDEX",
+                "subLinks": []
+              }
+            ]
+          }
+        ],
+        "socialMediaLinks": [
+          {
+            "id": "532ff737-2d92-4bbd-80a9-18d7837f7ac0",
+            "linkType": "PAGE",
+            "label": "Anasayfa",
+            "pageId": "4257a355-ef05-4387-9cd1-3c4a0ac53f89",
+            "pageType": "INDEX",
+            "subLinks": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "e531730c-9b1e-4cfc-bc50-d544cf27acba",
+      "dir": "header",
+      "displayName": "Header",
+      "description": "",
+      "props": [
+        {
+          "id": "8f98d45b-23b9-42e2-8c4f-7f9b589c37df",
+          "name": "logo",
+          "displayName": "Logo",
+          "description": "",
+          "type": "IMAGE",
+          "isRequired": true,
+          "sliderData": {},
+          "groupId": "",
+          "translations": {}
+        },
+        {
+          "id": "fa6251f6-45ca-4562-8e68-260fca119880",
+          "name": "link",
+          "displayName": "Link",
+          "description": "",
+          "type": "LIST_OF_LINK",
+          "isRequired": true,
+          "sliderData": {},
+          "groupId": "",
+          "translations": {}
+        }
+      ],
+      "isHeader": true,
+      "isFooter": false,
+      "translations": {},
+      "defaultPropValuesTranslations": {},
+      "defaultPropValues": {
+        "logo": {
+          "id": "theme-images/093c98e3-eb87-46cb-98d9-ddbdec60934d",
+          "altText": null
+        },
+        "link": [
+          {
+            "id": "3eff6df9-e052-4946-bd37-da373407da01",
+            "linkType": "PAGE",
+            "label": "Anasayfa",
+            "pageId": "4257a355-ef05-4387-9cd1-3c4a0ac53f89",
+            "pageType": "INDEX",
+            "subLinks": []
+          }
+        ]
+      }
+    }
+  ],
+  "pages": [
+    {
+      "id": "4257a355-ef05-4387-9cd1-3c4a0ac53f89",
+      "name": "",
+      "type": "INDEX",
+      "components": [
+        {
+          "id": "d8f7c79a-b47d-4115-bbd4-572dd9e05194",
+          "componentId": "f8fc0561-aaae-499a-bede-5f21cfb4cf7c",
+          "propValues": {
+            "links": [
+              {
+                "id": "4b0fe089-1ced-4bed-a676-00d0ae8851de",
+                "linkType": "PAGE",
+                "label": "Home",
+                "pageId": "4257a355-ef05-4387-9cd1-3c4a0ac53f89",
+                "pageType": "INDEX",
+                "subLinks": [
+                  {
+                    "id": "416c3f5a-e663-4019-a72b-64df2913c03a",
+                    "linkType": "PAGE",
+                    "label": "Shop",
+                    "pageId": "4257a355-ef05-4387-9cd1-3c4a0ac53f89",
+                    "pageType": "INDEX",
+                    "subLinks": []
+                  },
+                  {
+                    "id": "2fcad834-a7b5-44fa-b3a4-75668fa00833",
+                    "linkType": "PAGE",
+                    "label": "Blog",
+                    "pageId": "4257a355-ef05-4387-9cd1-3c4a0ac53f89",
+                    "pageType": "INDEX",
+                    "subLinks": []
+                  }
+                ]
+              },
+              {
+                "id": "26418de8-96f9-4b5c-acff-10f55a849467",
+                "linkType": "PAGE",
+                "label": "Lookbook",
+                "pageId": "4257a355-ef05-4387-9cd1-3c4a0ac53f89",
+                "pageType": "INDEX",
+                "subLinks": [
+                  {
+                    "id": "35fd6309-12c2-40b5-8a51-f0aa5eda9dcc",
+                    "linkType": "PAGE",
+                    "label": "Our Story",
+                    "pageId": "4257a355-ef05-4387-9cd1-3c4a0ac53f89",
+                    "pageType": "INDEX",
+                    "subLinks": []
+                  },
+                  {
+                    "id": "c78071c2-d124-4a1f-8139-97974395ec13",
+                    "linkType": "PAGE",
+                    "label": "Contact",
+                    "pageId": "4257a355-ef05-4387-9cd1-3c4a0ac53f89",
+                    "pageType": "INDEX",
+                    "subLinks": []
+                  }
+                ]
+              },
+              {
+                "id": "27090e0f-6ece-4348-819c-44aa3b247e81",
+                "linkType": "PAGE",
+                "label": "Store Policy",
+                "pageId": "4257a355-ef05-4387-9cd1-3c4a0ac53f89",
+                "pageType": "INDEX",
+                "subLinks": [
+                  {
+                    "id": "47744795-3682-4cc7-9a62-402ca8a8f9c4",
+                    "linkType": "PAGE",
+                    "label": "Shipping & Returns",
+                    "pageId": "4257a355-ef05-4387-9cd1-3c4a0ac53f89",
+                    "pageType": "INDEX",
+                    "subLinks": []
+                  },
+                  {
+                    "id": "2b2a662c-0f50-408c-9ccb-85980bfd4441",
+                    "linkType": "PAGE",
+                    "label": "FAQ",
+                    "pageId": "4257a355-ef05-4387-9cd1-3c4a0ac53f89",
+                    "pageType": "INDEX",
+                    "subLinks": []
+                  }
+                ]
+              }
+            ],
+            "footerText": "saaASasAS",
+            "socialMediaLinks": [
+              {
+                "id": "532ff737-2d92-4bbd-80a9-18d7837f7ac0",
+                "linkType": "PAGE",
+                "label": "Anasayfa",
+                "pageId": "4257a355-ef05-4387-9cd1-3c4a0ac53f89",
+                "pageType": "INDEX",
+                "subLinks": []
+              },
+              {
+                "id": "a1afbf3d-77fe-4de1-9348-3968366201e8",
+                "linkType": "EXTERNAL",
+                "label": "twitter",
+                "subLinks": []
+              }
+            ]
+          }
+        },
+        {
+          "id": "b8214b21-ef9d-4bed-9e3b-9fd600d58576",
+          "componentId": "e531730c-9b1e-4cfc-bc50-d544cf27acba",
+          "propValues": {
+            "logo": {
+              "id": "theme-images/e0e671a1-12ea-4ca9-b099-6bf6e8c04079",
+              "altText": null
+            },
+            "link": [
+              {
+                "id": "c4d30251-1243-47eb-bb10-718a08019af4",
+                "linkType": "PAGE",
+                "label": "Anasayfa",
+                "pageId": "4257a355-ef05-4387-9cd1-3c4a0ac53f89",
+                "pageType": "INDEX",
+                "subLinks": []
+              }
+            ]
+          }
+        }
+      ],
+      "slug": null,
+      "pageTitle": null,
+      "description": null,
+      "specifications": [],
+      "disableIndex": false,
+      "canonicals": null
+    },
+    {
+      "id": "aa9daf62-60d3-458b-ad91-e09b069bc63c",
+      "name": "",
+      "type": "PRODUCT",
+      "components": [],
+      "slug": null,
+      "pageTitle": null,
+      "description": null,
+      "specifications": [],
+      "disableIndex": false,
+      "canonicals": null
+    },
+    {
+      "id": "checkout",
+      "name": "",
+      "type": "CHECKOUT",
+      "components": [
+        {
+          "id": "67673ce6-f309-4e2b-8d42-9eff9afa8029",
+          "componentId": "checkout",
+          "propValues": {
+            "showTax": true,
+            "buttonBgColor": "#272727",
+            "buttonTextColor": "#FFFFFF",
+            "buttonDisabledBgColor": "#F7F7F9",
+            "buttonDisabledTextColor": "#8A8B94",
+            "primaryTextColor": "#272727",
+            "secondaryTextColor": "#8A8B94",
+            "primaryBgColor": "#FFFFFF",
+            "secondaryBgColor": "#F7F7F9",
+            "borderColor": "#E5E4E9",
+            "cardBgColor": "#F7F7F9",
+            "errorColor": "#FB4E4E",
+            "errorLightColor": "#FCF3F4",
+            "warningColor": "#FFBC1F",
+            "warningLightColor": "#FFFAEE",
+            "successColor": "#2DCA73",
+            "successLightColor": "#F6FFED"
+          }
+        }
+      ],
+      "slug": null,
+      "pageTitle": null,
+      "description": null,
+      "specifications": [],
+      "disableIndex": false,
+      "canonicals": null
+    }
+  ],
+  "settings": {
+    "colors": [],
+    "favicon": {
+      "id": null
+    },
+    "stockPreference": "SHOW_ALL",
+    "fontFamily": {
+      "name": null,
+      "variants": null
+    }
+  },
+  "customData": [],
+  "groups": [],
+  "languages": []
+}

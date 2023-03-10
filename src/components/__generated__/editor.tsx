@@ -1,0 +1,13 @@
+import dynamic from "next/dynamic";
+import { IkasEditorComponentLoader } from "@ikas/storefront";
+
+
+const Component0 = dynamic(() => import("../footer"), { loading: () => <IkasEditorComponentLoader /> });
+const Component1 = dynamic(() => import("../header"), { loading: () => <IkasEditorComponentLoader /> });
+
+
+const Components = {
+  "f8fc0561-aaae-499a-bede-5f21cfb4cf7c": Component0,"e531730c-9b1e-4cfc-bc50-d544cf27acba": Component1
+};
+
+export default Components;

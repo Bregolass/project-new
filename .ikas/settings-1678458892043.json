@@ -1,0 +1,99 @@
+{
+  "storefront": {
+    "_id": "7bf48dea-9099-4065-82b3-5051802d948b",
+    "merchantId": "21c52898-8789-4577-9f04-e62ba4e14d1e",
+    "deleted": false,
+    "name": "dev-partner-new",
+    "domains": null,
+    "status": "READY",
+    "salesChannelId": "38d16cce-bd8e-4e14-b5bf-8ae76fe081d9",
+    "mainStorefrontThemeId": "91a289a3-e0d5-4bb5-b192-5cfbd8bfd751",
+    "localizations": [
+      {
+        "_id": "6282b0a4-6e5a-4cb3-8c48-8f7e6acdf637",
+        "updatedAt": "2023-03-09T13:40:28.437Z",
+        "createdAt": "2023-03-09T13:40:28.437Z",
+        "deleted": false,
+        "name": "Türkçe",
+        "isDefault": true,
+        "locale": "tr",
+        "id": "6282b0a4-6e5a-4cb3-8c48-8f7e6acdf637"
+      }
+    ],
+    "routings": [
+      {
+        "_id": "bced646e-2605-48cb-8bac-0216afcc5269",
+        "updatedAt": "2023-03-09T13:40:28.437Z",
+        "createdAt": "2023-03-09T13:40:28.437Z",
+        "deleted": false,
+        "countryCodes": null,
+        "priceListId": null,
+        "locale": "tr",
+        "path": null,
+        "domain": null,
+        "id": "bced646e-2605-48cb-8bac-0216afcc5269"
+      }
+    ],
+    "themes": [
+      {
+        "_id": "91a289a3-e0d5-4bb5-b192-5cfbd8bfd751",
+        "updatedAt": "2023-03-09T13:40:28.437Z",
+        "createdAt": "2023-03-09T13:40:28.437Z",
+        "deleted": false,
+        "name": "Kombos",
+        "status": "NOT_DEPLOYED",
+        "isMainTheme": true,
+        "themeId": "64e2bf75-b244-4d35-a172-eee34b5ef099",
+        "themeVersionId": "6804f50f-1f7b-4c70-957c-0b4cee1644fc",
+        "id": "91a289a3-e0d5-4bb5-b192-5cfbd8bfd751"
+      },
+      {
+        "_id": "6f11c64e-5bf5-469e-befe-46b202ec5b0f",
+        "updatedAt": "2023-03-09T13:40:28.437Z",
+        "createdAt": "2023-03-09T13:40:28.437Z",
+        "deleted": false,
+        "name": "last-project-theme",
+        "status": "READY",
+        "isMainTheme": false,
+        "themeId": "a60988f7-81fb-4427-9edc-7f0d230b9148",
+        "themeVersionId": "2cfc87f7-18cb-4f4b-8a5b-822c751383c2",
+        "id": "6f11c64e-5bf5-469e-befe-46b202ec5b0f"
+      }
+    ],
+    "socialLoginSettings": [],
+    "metaTemplates": [],
+    "createdAt": "2023-03-06T08:18:17.077Z",
+    "updatedAt": "2023-03-09T13:40:28.437Z",
+    "__v": 1,
+    "id": "7bf48dea-9099-4065-82b3-5051802d948b"
+  },
+  "salesChannel": {
+    "id": "38d16cce-bd8e-4e14-b5bf-8ae76fe081d9",
+    "merchantId": "21c52898-8789-4577-9f04-e62ba4e14d1e",
+    "deleted": false,
+    "name": "dev-partner-new",
+    "type": "STOREFRONT",
+    "stockLocations": [
+      {
+        "id": "91b8f38d-4da7-4f3c-b6cb-758083f39170",
+        "order": 1
+      }
+    ]
+  },
+  "localizationMap": {
+    "bced646e-2605-48cb-8bac-0216afcc5269": "/localizations/91a289a3-e0d5-4bb5-b192-5cfbd8bfd751_tr.json"
+  },
+  "customerSettings": null,
+  "domain": "undefined.myikas.com",
+  "customerReviewSettings": null,
+  "productBackInStockSettings": null,
+  "storefrontJSScripts": [],
+  "merchantSettings": {
+    "merchantName": "dev-partner-new",
+    "merchantAddress": {
+      "type": "INDIVIDUAL"
+    },
+    "currencyCode": "TRY",
+    "merchantId": "21c52898-8789-4577-9f04-e62ba4e14d1e"
+  }
+}

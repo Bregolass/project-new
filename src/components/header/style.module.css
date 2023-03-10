@@ -1,0 +1,47 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  display: flex;
+  position:static;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color:#d8b079;
+}
+.header button {
+  background-color: transparent;
+  border: none;
+}
+.headerTop {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  padding: 21px 52px 0 52px;
+}
+.headerMenu {
+  display: flex;
+  align-items: baseline;
+  justify-content: center;
+  margin-top: 3rem;
+}
+span .header .headerTop .logo {
+  position: relative ;
+  width: 120px;
+  height: 59px;
+}
+.header .headerTop .logo {
+  position: relative !important;
+  width: 120px;
+  height: 59px;
+}
+.headerMenu .linkList {
+  display: flex;
+  gap: 12.6px;
+  list-style-type: none;
+}
+.header button:hover {
+  cursor: pointer;
+}
